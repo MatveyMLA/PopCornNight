@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/exit" android:title="@string/exitApp"></item>
+    <item android:id="@+id/addMovie" android:title="@string/addMovie">
+        <menu>
+            <item android:id="@+id/addInternetMovie" android:title="@string/addInternetMovie"></item>
+            <item android:id="@+id/addManualMovie" android:title="@string/addManualMovie"></item>
+        </menu>
+    </item>
+
+</menu>

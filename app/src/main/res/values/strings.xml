@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopCorn Night</string>
+    <string name="addMovie">Add movie</string>
+    <string name="exitApp">Exit</string>
+    <string name="updateMovie">Update movie</string>
+    <string name="deleteMovie">Delete movie</string>
+    <string name="addInternetMovie">Add movie from internet</string>
+    <string name="addManualMovie">Add Your movie</string>
+    <string name="confirmInternetMovieBtn">confirm</string>
+    <string name="cancelInternetMovieBtn">cancel</string>
+
+</resources>
