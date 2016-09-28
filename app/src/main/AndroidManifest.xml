@@ -16,7 +16,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".activities.AddInternetMovie" />
-        <activity android:name=".activities.ShowMovieData"></activity>
+        <activity android:name=".activities.ShowMovieData" />
     </application>
 
 </manifest>
